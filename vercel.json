@@ -1,0 +1,7 @@
+{"rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://bk.ayaka0.top/"
+    }
+  ]
+}
