@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://bk.ayaka0.top/"
+      "destination": "https://vtsuru.live/"
     }
   ]
 }
