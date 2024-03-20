@@ -1,3 +1,3 @@
-import { inject } from 'http://bk.ayaka0.top/';
+import { inject } from 'https://vtsuru.live/';
  
 inject();
